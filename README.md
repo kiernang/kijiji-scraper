@@ -21,37 +21,7 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
-### Built With
-
-
-* [![R][Rstudio.com]][R-studio-url]
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- GETTING STARTED -->
-## Getting Started
-placeholder
-### Prerequisites
-
-placeholder
-
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Placeholder
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-
+Looking for an apartment is awful. I built a webscraper that runs every day, and is stored to google sheets, to help me understand seasonality and trends in the rental market in Toronto, where I live. I'm not from here so my definition of 'East' vs 'West' is just based on Yonge Street.. where the street signs switch. There is some level of overlap between east and west. additionally it doesn't capture areas that are further north, etc etc. Sometimes I don't come into the office and it doesn't run, or I have my laptop switched off for whatever reason. I guess in a v2.0 I would run it remotely, but for now this is fine as all postings (typically) get captured.
 
 
 <!-- CONTACT -->
@@ -68,10 +38,7 @@ Project Link: [https://github.com/kiernang/kijiji_scraper](https://github.com/ki
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* []()
-* []()
-* []()
-
+Thank you to Jordan Hutchings for the idea!
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
